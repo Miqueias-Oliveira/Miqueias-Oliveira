@@ -1,17 +1,27 @@
 # 👨🏽‍💻 Miqueias Oliveira
 
-🎯 **`Estudante de Análise e Desenvolvimento de Sistemas | Back-end em formação`**
+🎯 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Da coleta de resíduos ao desenvolvimento de software. <br>
 Tenho 23 anos, curso **Análise e Desenvolvimento de Sistemas na FMU** e estou em transição para a área de tecnologia, construindo minha base técnica com foco em **Backend Java com visão Full Stack**.
+## 🚀 Sobre minha jornada
 
-<a href="https://github.com/Miqueias-Oliveira?tab=followers">
-  <img 
-    alt="Seguidores" 
-    title="Me siga no GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/followers/Miqueias-Oliveira?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-  />
-</a>
+- 🏭 Atuação profissional na área operacional (coleta de resíduos) 
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas (FMU)** 
+- 🔁 Em processo de **migração para a área de tecnologia** 
+- 📚 Estudando diariamente programação e lógica de software 
+- 💡 Buscando minha primeira oportunidade na área técnica 
+##
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/miqueias-oliveira-83a150373/">
+        <img 
+            alt="LinkedIn Seguidores"
+            title="Conecte-se comigo no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B50-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+        />
+    </a>
+    
 
 <a href="https://github.com/Miqueias-Oliveira?tab=repositories&sort=stargazers">
   <img 
@@ -21,26 +31,16 @@ Tenho 23 anos, curso **Análise e Desenvolvimento de Sistemas na FMU** e estou e
   />
 </a>
 
-<a href="https://www.linkedin.com/in/miqueias-oliveira-83a150373/" target="_blank">
-  <img 
-    alt="LinkedIn" 
-    title="Meu LinkedIn" 
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
+ <a href="https://github.com/Miqueias-Oliveira?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Miqueias-Oliveira?color=7B1FA2&labelColor=6A1B9A&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+
 
 ---
-
-## 🚀 Sobre minha jornada
-
-- 🏭 Atuação profissional na área operacional (coleta de resíduos) 
-- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas (FMU)** 
-- 🔁 Em processo de **migração para a área de tecnologia** 
-- 📚 Estudando diariamente programação e lógica de software 
-- 💡 Buscando minha primeira oportunidade na área técnica 
-
----
-
 ## 🤖 Tecnologias e Ferramentas
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;"
@@ -69,19 +69,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-ori
 
 <p>
   <img 
-    align="left"
-    alt="GitHub Stats"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Miqueias-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Miqueias-Oliveira&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left"
-    alt="Top Langs"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueias-Oliveira&theme=tokyonight&layout=compact&langs_count=8&cache_seconds=1800"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Miqueias-Oliveira&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
   />
 </p>
 
-<br clear="both"/>
 
+</p>
